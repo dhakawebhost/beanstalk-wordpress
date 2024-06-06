@@ -1,0 +1,1496 @@
+[05-Apr-2023 10:11:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:11:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:12:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:12:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:12:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:12:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:12:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:12:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:13:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:13:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:13:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:13:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:13:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:13:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:14:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:15:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:15:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:15:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:19:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:19:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:19:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:21:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:22:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:22:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:22:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:22:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:22:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:22:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:24:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:24:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:24:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:24:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:25:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(347): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517): in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:25:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:25:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(347): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517): in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:29:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:31:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:33:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:33:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:33:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:34:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:34:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:34:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:35:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:35:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:35:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:37:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:37:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:37:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:37:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:37:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:37:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:42:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:42:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:43:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:43:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:43:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:56:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:56:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:56:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 10:56:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 11:08:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 11:08:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 11:25:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 12:48:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 14:38:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 14:38:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 14:38:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 14:38:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 14:38:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 14:38:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 14:38:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->wp_footer('')
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#7 /home/sparmatg/public_html/wp-includes/plugin.php(517 in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 14:41:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[05-Apr-2023 14:41:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ElementsKit_Lite\Widgets\Init\is_plugin_active() in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php:33
+Stack trace:
+#0 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): ElementsKit_Lite\Widgets\Init\Enqueue_Scripts->elementor_js('')
+#1 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/sparmatg/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(596): do_action('elementor/front...')
+#4 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/frontend.php(803): Elementor\Frontend->enqueue_scripts()
+#5 /home/sparmatg/public_html/wp-content/plugins/elementor/includes/preview.php(344): Elementor\Frontend->wp_footer()
+#6 /home/sparmatg/public_html/wp-includes/class-wp-hook.php(308): Elementor\Preview->wp_footer('')
+#7 /home/sparmatg/public_html/wp-includes in /home/sparmatg/public_html/wp-content/plugins/elementskit-lite/widgets/init/enqueue-scripts.php on line 33
+[11-Feb-2024 04:05:26 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Feb-2024 04:05:27 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Feb-2024 04:05:28 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Feb-2024 04:05:29 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Feb-2024 04:05:30 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Feb-2024 04:05:30 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Feb-2024 04:05:31 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Feb-2024 04:05:31 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Feb-2024 04:05:32 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Feb-2024 04:05:32 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Feb-2024 04:05:32 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Feb-2024 04:05:33 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Feb-2024 04:05:33 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Feb-2024 04:05:33 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Feb-2024 04:05:34 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Feb-2024 04:05:34 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Feb-2024 04:05:35 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Feb-2024 04:05:35 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Feb-2024 04:05:35 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Feb-2024 04:05:36 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Feb-2024 04:05:36 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Feb-2024 04:05:36 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Feb-2024 04:12:23 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Feb-2024 04:13:16 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Feb-2024 04:19:06 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Feb-2024 04:19:07 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Feb-2024 04:19:07 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Feb-2024 04:19:09 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Feb-2024 04:19:09 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Feb-2024 04:19:10 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Feb-2024 04:19:10 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Feb-2024 04:19:11 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Feb-2024 04:19:11 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Feb-2024 04:19:11 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Feb-2024 04:19:12 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Feb-2024 04:19:12 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Feb-2024 04:19:12 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Feb-2024 04:19:13 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Feb-2024 04:19:13 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Feb-2024 04:19:13 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Feb-2024 04:19:14 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Feb-2024 04:19:14 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Feb-2024 04:19:14 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Feb-2024 04:19:15 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Feb-2024 04:19:15 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Feb-2024 04:19:15 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Feb-2024 04:26:22 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Feb-2024 04:27:23 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[13-Feb-2024 04:16:54 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[13-Feb-2024 04:16:55 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[13-Feb-2024 04:16:55 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[13-Feb-2024 04:16:56 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[13-Feb-2024 04:16:57 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[13-Feb-2024 04:16:58 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[13-Feb-2024 04:16:58 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[13-Feb-2024 04:16:59 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[13-Feb-2024 04:16:59 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[13-Feb-2024 04:17:00 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[13-Feb-2024 04:17:00 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[13-Feb-2024 04:17:00 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[13-Feb-2024 04:17:01 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[13-Feb-2024 04:17:01 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[13-Feb-2024 04:17:01 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[13-Feb-2024 04:17:02 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[13-Feb-2024 04:17:02 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[13-Feb-2024 04:17:03 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[13-Feb-2024 04:17:03 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[13-Feb-2024 04:17:03 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[13-Feb-2024 04:17:04 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[13-Feb-2024 04:17:04 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[13-Feb-2024 04:23:53 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[13-Feb-2024 04:24:53 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[14-Feb-2024 04:17:14 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[14-Feb-2024 04:17:15 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[14-Feb-2024 04:17:15 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[14-Feb-2024 04:17:17 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[14-Feb-2024 04:17:17 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[14-Feb-2024 04:17:18 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[14-Feb-2024 04:17:18 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[14-Feb-2024 04:17:19 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[14-Feb-2024 04:17:19 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[14-Feb-2024 04:17:20 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[14-Feb-2024 04:17:20 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[14-Feb-2024 04:17:20 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[14-Feb-2024 04:17:21 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[14-Feb-2024 04:17:21 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[14-Feb-2024 04:17:21 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[14-Feb-2024 04:17:22 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[14-Feb-2024 04:17:22 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[14-Feb-2024 04:17:22 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[14-Feb-2024 04:17:23 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[14-Feb-2024 04:17:23 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[14-Feb-2024 04:17:23 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[14-Feb-2024 04:17:24 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[14-Feb-2024 04:24:17 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[14-Feb-2024 04:25:17 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[15-Feb-2024 04:05:50 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[15-Feb-2024 04:05:51 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[15-Feb-2024 04:05:51 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[15-Feb-2024 04:05:53 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[15-Feb-2024 04:05:53 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[15-Feb-2024 04:05:54 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[15-Feb-2024 04:05:55 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[15-Feb-2024 04:05:55 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[15-Feb-2024 04:05:55 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[15-Feb-2024 04:05:56 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[15-Feb-2024 04:05:56 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[15-Feb-2024 04:05:56 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[15-Feb-2024 04:05:57 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[15-Feb-2024 04:05:57 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[15-Feb-2024 04:05:57 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[15-Feb-2024 04:05:58 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[15-Feb-2024 04:05:58 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[15-Feb-2024 04:05:58 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[15-Feb-2024 04:05:59 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[15-Feb-2024 04:05:59 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[15-Feb-2024 04:05:59 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[15-Feb-2024 04:06:00 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[15-Feb-2024 04:12:17 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[15-Feb-2024 04:13:10 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[16-Feb-2024 04:17:08 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[16-Feb-2024 04:17:09 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[16-Feb-2024 04:17:10 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[16-Feb-2024 04:17:11 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[16-Feb-2024 04:17:12 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[16-Feb-2024 04:17:12 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[16-Feb-2024 04:17:13 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[16-Feb-2024 04:17:13 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[16-Feb-2024 04:17:14 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[16-Feb-2024 04:17:14 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[16-Feb-2024 04:17:14 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[16-Feb-2024 04:17:15 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[16-Feb-2024 04:17:15 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[16-Feb-2024 04:17:16 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[16-Feb-2024 04:17:16 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[16-Feb-2024 04:17:16 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[16-Feb-2024 04:17:17 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[16-Feb-2024 04:17:17 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[16-Feb-2024 04:17:17 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[16-Feb-2024 04:17:18 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[16-Feb-2024 04:17:18 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[16-Feb-2024 04:17:18 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[16-Feb-2024 04:24:19 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[16-Feb-2024 04:25:16 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[17-Feb-2024 04:03:23 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[17-Feb-2024 04:03:24 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[17-Feb-2024 04:03:24 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[17-Feb-2024 04:03:26 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[17-Feb-2024 04:03:26 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[17-Feb-2024 04:03:27 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[17-Feb-2024 04:03:27 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[17-Feb-2024 04:03:28 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[17-Feb-2024 04:03:28 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[17-Feb-2024 04:03:29 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[17-Feb-2024 04:03:29 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[17-Feb-2024 04:03:29 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[17-Feb-2024 04:03:30 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[17-Feb-2024 04:03:30 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[17-Feb-2024 04:03:30 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[17-Feb-2024 04:03:31 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[17-Feb-2024 04:03:31 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[17-Feb-2024 04:03:31 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[17-Feb-2024 04:03:32 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[17-Feb-2024 04:03:32 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[17-Feb-2024 04:03:32 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[17-Feb-2024 04:03:33 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[17-Feb-2024 04:10:01 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[17-Feb-2024 04:10:53 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[18-Feb-2024 04:04:02 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[18-Feb-2024 04:04:03 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[18-Feb-2024 04:04:03 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[18-Feb-2024 04:04:05 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[18-Feb-2024 04:04:05 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[18-Feb-2024 04:04:06 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[18-Feb-2024 04:04:06 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[18-Feb-2024 04:04:07 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[18-Feb-2024 04:04:07 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[18-Feb-2024 04:04:08 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[18-Feb-2024 04:04:08 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[18-Feb-2024 04:04:08 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[18-Feb-2024 04:04:09 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[18-Feb-2024 04:04:09 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[18-Feb-2024 04:04:09 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[18-Feb-2024 04:04:10 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[18-Feb-2024 04:04:10 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[18-Feb-2024 04:04:10 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[18-Feb-2024 04:04:11 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[18-Feb-2024 04:04:11 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[18-Feb-2024 04:04:11 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[18-Feb-2024 04:04:12 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[18-Feb-2024 04:10:48 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[18-Feb-2024 04:11:43 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[19-Feb-2024 04:10:13 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[19-Feb-2024 04:10:14 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[19-Feb-2024 04:10:14 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[19-Feb-2024 04:10:16 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[19-Feb-2024 04:10:16 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[19-Feb-2024 04:10:17 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[19-Feb-2024 04:10:17 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[19-Feb-2024 04:10:18 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[19-Feb-2024 04:10:18 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[19-Feb-2024 04:10:18 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[19-Feb-2024 04:10:19 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[19-Feb-2024 04:10:19 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[19-Feb-2024 04:10:20 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[19-Feb-2024 04:10:20 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[19-Feb-2024 04:10:20 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[19-Feb-2024 04:10:21 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[19-Feb-2024 04:10:21 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[19-Feb-2024 04:10:21 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[19-Feb-2024 04:10:22 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[19-Feb-2024 04:10:22 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[19-Feb-2024 04:10:22 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[19-Feb-2024 04:10:23 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[19-Feb-2024 04:16:52 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[19-Feb-2024 04:17:42 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[19-Feb-2024 09:44:20 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[19-Feb-2024 09:47:45 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[20-Feb-2024 04:24:45 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[20-Feb-2024 04:24:45 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[20-Feb-2024 04:24:46 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[20-Feb-2024 04:24:47 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[20-Feb-2024 04:24:48 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[20-Feb-2024 04:24:48 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[20-Feb-2024 04:24:49 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[20-Feb-2024 04:24:49 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[20-Feb-2024 04:24:50 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[20-Feb-2024 04:24:50 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[20-Feb-2024 04:24:51 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[20-Feb-2024 04:24:51 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[20-Feb-2024 04:24:51 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[20-Feb-2024 04:24:52 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[20-Feb-2024 04:24:52 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[20-Feb-2024 04:24:52 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[20-Feb-2024 04:24:53 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[20-Feb-2024 04:24:53 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[20-Feb-2024 04:24:53 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[20-Feb-2024 04:24:54 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[20-Feb-2024 04:24:54 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[20-Feb-2024 04:24:55 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[20-Feb-2024 04:31:24 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[20-Feb-2024 04:32:16 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[21-Feb-2024 04:15:49 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[21-Feb-2024 04:15:50 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[21-Feb-2024 04:15:51 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[21-Feb-2024 04:15:52 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[21-Feb-2024 04:15:53 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[21-Feb-2024 04:15:53 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[21-Feb-2024 04:15:54 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[21-Feb-2024 04:15:54 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[21-Feb-2024 04:15:55 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[21-Feb-2024 04:15:55 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[21-Feb-2024 04:15:55 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[21-Feb-2024 04:15:56 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[21-Feb-2024 04:15:56 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[21-Feb-2024 04:15:56 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[21-Feb-2024 04:15:57 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[21-Feb-2024 04:15:57 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[21-Feb-2024 04:15:58 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[21-Feb-2024 04:15:58 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[21-Feb-2024 04:15:58 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[21-Feb-2024 04:15:59 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[21-Feb-2024 04:15:59 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[21-Feb-2024 04:16:00 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[21-Feb-2024 04:22:51 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[21-Feb-2024 04:23:45 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[22-Feb-2024 04:03:05 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[22-Feb-2024 04:03:06 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[22-Feb-2024 04:03:07 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[22-Feb-2024 04:03:08 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[22-Feb-2024 04:03:09 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[22-Feb-2024 04:03:09 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[22-Feb-2024 04:03:10 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[22-Feb-2024 04:03:10 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[22-Feb-2024 04:03:11 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[22-Feb-2024 04:03:11 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[22-Feb-2024 04:03:12 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[22-Feb-2024 04:03:12 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[22-Feb-2024 04:03:13 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[22-Feb-2024 04:03:13 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[22-Feb-2024 04:03:13 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[22-Feb-2024 04:03:14 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[22-Feb-2024 04:03:14 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[22-Feb-2024 04:03:15 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[22-Feb-2024 04:03:15 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[22-Feb-2024 04:03:15 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[22-Feb-2024 04:03:16 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[22-Feb-2024 04:03:16 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[22-Feb-2024 04:09:51 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[22-Feb-2024 04:10:46 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[23-Feb-2024 04:03:09 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[23-Feb-2024 04:03:10 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[23-Feb-2024 04:03:11 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[23-Feb-2024 04:03:12 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[23-Feb-2024 04:03:13 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[23-Feb-2024 04:03:13 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[23-Feb-2024 04:03:14 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[23-Feb-2024 04:03:14 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[23-Feb-2024 04:03:15 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[23-Feb-2024 04:03:15 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[23-Feb-2024 04:03:15 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[23-Feb-2024 04:03:16 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[23-Feb-2024 04:03:16 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[23-Feb-2024 04:03:16 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[23-Feb-2024 04:03:17 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[23-Feb-2024 04:03:17 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[23-Feb-2024 04:03:17 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[23-Feb-2024 04:03:18 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[23-Feb-2024 04:03:18 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[23-Feb-2024 04:03:18 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[23-Feb-2024 04:03:19 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[23-Feb-2024 04:03:19 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[23-Feb-2024 04:09:39 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[23-Feb-2024 04:10:30 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[24-Feb-2024 04:02:55 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[24-Feb-2024 04:02:56 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[24-Feb-2024 04:02:57 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[24-Feb-2024 04:02:58 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[24-Feb-2024 04:02:59 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[24-Feb-2024 04:02:59 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[24-Feb-2024 04:03:00 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[24-Feb-2024 04:03:00 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[24-Feb-2024 04:03:00 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[24-Feb-2024 04:03:01 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[24-Feb-2024 04:03:01 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[24-Feb-2024 04:03:01 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[24-Feb-2024 04:03:02 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[24-Feb-2024 04:03:02 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[24-Feb-2024 04:03:03 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[24-Feb-2024 04:03:03 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[24-Feb-2024 04:03:03 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[24-Feb-2024 04:03:04 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[24-Feb-2024 04:03:04 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[24-Feb-2024 04:03:04 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[24-Feb-2024 04:03:05 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[24-Feb-2024 04:03:05 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[24-Feb-2024 04:09:18 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[24-Feb-2024 04:10:06 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[25-Feb-2024 04:08:30 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[25-Feb-2024 04:08:31 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[25-Feb-2024 04:08:32 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[25-Feb-2024 04:08:33 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[25-Feb-2024 04:08:33 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[25-Feb-2024 04:08:34 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[25-Feb-2024 04:08:35 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[25-Feb-2024 04:08:35 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[25-Feb-2024 04:08:35 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[25-Feb-2024 04:08:36 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[25-Feb-2024 04:08:36 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[25-Feb-2024 04:08:37 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[25-Feb-2024 04:08:37 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[25-Feb-2024 04:08:37 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[25-Feb-2024 04:08:38 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[25-Feb-2024 04:08:38 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[25-Feb-2024 04:08:38 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[25-Feb-2024 04:08:39 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[25-Feb-2024 04:08:39 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[25-Feb-2024 04:08:39 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[25-Feb-2024 04:08:40 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[25-Feb-2024 04:08:40 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[25-Feb-2024 04:14:57 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[25-Feb-2024 04:15:43 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[26-Feb-2024 04:02:24 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[26-Feb-2024 04:02:25 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[26-Feb-2024 04:02:26 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[26-Feb-2024 04:02:27 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[26-Feb-2024 04:02:27 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[26-Feb-2024 04:02:28 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[26-Feb-2024 04:02:28 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[26-Feb-2024 04:02:29 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[26-Feb-2024 04:02:29 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[26-Feb-2024 04:02:30 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[26-Feb-2024 04:02:30 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[26-Feb-2024 04:02:31 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[26-Feb-2024 04:02:31 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[26-Feb-2024 04:02:31 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[26-Feb-2024 04:02:32 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[26-Feb-2024 04:02:32 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[26-Feb-2024 04:02:32 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[26-Feb-2024 04:02:33 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[26-Feb-2024 04:02:33 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[26-Feb-2024 04:02:33 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[26-Feb-2024 04:02:34 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[26-Feb-2024 04:02:34 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[26-Feb-2024 04:08:53 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[26-Feb-2024 04:09:41 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[27-Feb-2024 04:31:36 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[27-Feb-2024 04:31:37 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[27-Feb-2024 04:31:37 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[27-Feb-2024 04:31:39 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[27-Feb-2024 04:31:39 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[27-Feb-2024 04:31:40 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[27-Feb-2024 04:31:40 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[27-Feb-2024 04:31:41 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[27-Feb-2024 04:31:41 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[27-Feb-2024 04:31:42 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[27-Feb-2024 04:31:42 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[27-Feb-2024 04:31:43 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[27-Feb-2024 04:31:43 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[27-Feb-2024 04:31:43 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[27-Feb-2024 04:31:44 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[27-Feb-2024 04:31:44 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[27-Feb-2024 04:31:44 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[27-Feb-2024 04:31:45 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[27-Feb-2024 04:31:45 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[27-Feb-2024 04:31:45 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[27-Feb-2024 04:31:46 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[27-Feb-2024 04:31:46 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[27-Feb-2024 04:38:27 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[27-Feb-2024 04:39:18 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[28-Feb-2024 04:02:13 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[28-Feb-2024 04:02:14 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[28-Feb-2024 04:02:15 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[28-Feb-2024 04:02:16 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[28-Feb-2024 04:02:16 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[28-Feb-2024 04:02:17 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[28-Feb-2024 04:02:18 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[28-Feb-2024 04:02:18 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[28-Feb-2024 04:02:18 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[28-Feb-2024 04:02:19 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[28-Feb-2024 04:02:19 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[28-Feb-2024 04:02:19 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[28-Feb-2024 04:02:20 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[28-Feb-2024 04:02:20 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[28-Feb-2024 04:02:21 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[28-Feb-2024 04:02:21 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[28-Feb-2024 04:02:21 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[28-Feb-2024 04:02:22 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[28-Feb-2024 04:02:22 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[28-Feb-2024 04:02:22 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[28-Feb-2024 04:02:23 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[28-Feb-2024 04:02:23 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[28-Feb-2024 04:08:37 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[28-Feb-2024 04:09:23 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[29-Feb-2024 04:26:52 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[29-Feb-2024 04:26:53 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[29-Feb-2024 04:26:54 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[29-Feb-2024 04:26:55 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[29-Feb-2024 04:26:55 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[29-Feb-2024 04:26:56 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[29-Feb-2024 04:26:57 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[29-Feb-2024 04:26:57 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[29-Feb-2024 04:26:57 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[29-Feb-2024 04:26:58 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[29-Feb-2024 04:26:58 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[29-Feb-2024 04:26:59 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[29-Feb-2024 04:26:59 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[29-Feb-2024 04:26:59 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[29-Feb-2024 04:27:00 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[29-Feb-2024 04:27:00 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[29-Feb-2024 04:27:00 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[29-Feb-2024 04:27:01 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[29-Feb-2024 04:27:01 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[29-Feb-2024 04:27:01 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[29-Feb-2024 04:27:02 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[29-Feb-2024 04:27:02 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[29-Feb-2024 04:33:22 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[29-Feb-2024 04:34:18 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[01-Mar-2024 04:16:25 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[01-Mar-2024 04:16:25 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[01-Mar-2024 04:16:26 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[01-Mar-2024 04:16:27 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[01-Mar-2024 04:16:28 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[01-Mar-2024 04:16:28 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[01-Mar-2024 04:16:29 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[01-Mar-2024 04:16:29 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[01-Mar-2024 04:16:30 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[01-Mar-2024 04:16:30 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[01-Mar-2024 04:16:31 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[01-Mar-2024 04:16:31 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[01-Mar-2024 04:16:31 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[01-Mar-2024 04:16:32 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[01-Mar-2024 04:16:32 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[01-Mar-2024 04:16:32 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[01-Mar-2024 04:16:33 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[01-Mar-2024 04:16:33 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[01-Mar-2024 04:16:33 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[01-Mar-2024 04:16:34 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[01-Mar-2024 04:16:34 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[01-Mar-2024 04:16:35 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[01-Mar-2024 04:22:28 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[01-Mar-2024 04:23:15 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[02-Mar-2024 04:02:11 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[02-Mar-2024 04:02:12 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[02-Mar-2024 04:02:13 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[02-Mar-2024 04:02:14 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[02-Mar-2024 04:02:15 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[02-Mar-2024 04:02:15 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[02-Mar-2024 04:02:16 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[02-Mar-2024 04:02:16 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[02-Mar-2024 04:02:17 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[02-Mar-2024 04:02:17 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[02-Mar-2024 04:02:17 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[02-Mar-2024 04:02:18 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[02-Mar-2024 04:02:18 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[02-Mar-2024 04:02:18 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[02-Mar-2024 04:02:19 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[02-Mar-2024 04:02:19 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[02-Mar-2024 04:02:19 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[02-Mar-2024 04:02:20 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[02-Mar-2024 04:02:20 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[02-Mar-2024 04:02:21 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[02-Mar-2024 04:02:21 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[02-Mar-2024 04:02:21 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[02-Mar-2024 04:08:23 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[02-Mar-2024 04:09:09 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[03-Mar-2024 04:06:50 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[03-Mar-2024 04:06:51 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[03-Mar-2024 04:06:51 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[03-Mar-2024 04:06:53 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[03-Mar-2024 04:06:53 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[03-Mar-2024 04:06:54 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[03-Mar-2024 04:06:54 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[03-Mar-2024 04:06:55 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[03-Mar-2024 04:06:55 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[03-Mar-2024 04:06:55 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[03-Mar-2024 04:06:56 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[03-Mar-2024 04:06:56 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[03-Mar-2024 04:06:57 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[03-Mar-2024 04:06:57 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[03-Mar-2024 04:06:57 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[03-Mar-2024 04:06:58 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[03-Mar-2024 04:06:58 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[03-Mar-2024 04:06:58 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[03-Mar-2024 04:06:59 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[03-Mar-2024 04:06:59 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[03-Mar-2024 04:07:00 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[03-Mar-2024 04:07:00 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[03-Mar-2024 04:13:56 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[03-Mar-2024 04:14:47 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[04-Mar-2024 04:02:21 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[04-Mar-2024 04:02:22 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[04-Mar-2024 04:02:22 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[04-Mar-2024 04:02:23 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[04-Mar-2024 04:02:24 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[04-Mar-2024 04:02:24 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[04-Mar-2024 04:02:25 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[04-Mar-2024 04:02:25 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[04-Mar-2024 04:02:26 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[04-Mar-2024 04:02:26 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[04-Mar-2024 04:02:27 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[04-Mar-2024 04:02:27 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[04-Mar-2024 04:02:27 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[04-Mar-2024 04:02:28 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[04-Mar-2024 04:02:28 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[04-Mar-2024 04:02:28 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[04-Mar-2024 04:02:29 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[04-Mar-2024 04:02:29 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[04-Mar-2024 04:02:29 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[04-Mar-2024 04:02:30 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[04-Mar-2024 04:02:30 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[04-Mar-2024 04:02:30 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[04-Mar-2024 04:08:30 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[04-Mar-2024 04:09:14 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[05-Mar-2024 04:04:26 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[05-Mar-2024 04:04:27 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[05-Mar-2024 04:04:28 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[05-Mar-2024 04:04:29 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[05-Mar-2024 04:04:29 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[05-Mar-2024 04:04:30 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[05-Mar-2024 04:04:31 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[05-Mar-2024 04:04:31 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[05-Mar-2024 04:04:31 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[05-Mar-2024 04:04:32 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[05-Mar-2024 04:04:32 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[05-Mar-2024 04:04:32 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[05-Mar-2024 04:04:33 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[05-Mar-2024 04:04:33 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[05-Mar-2024 04:04:33 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[05-Mar-2024 04:04:34 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[05-Mar-2024 04:04:34 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[05-Mar-2024 04:04:34 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[05-Mar-2024 04:04:35 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[05-Mar-2024 04:04:35 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[05-Mar-2024 04:04:35 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[05-Mar-2024 04:04:36 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[05-Mar-2024 04:11:01 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[05-Mar-2024 04:11:46 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[06-Mar-2024 04:06:59 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[06-Mar-2024 04:07:00 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[06-Mar-2024 04:07:00 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[06-Mar-2024 04:07:02 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[06-Mar-2024 04:07:02 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[06-Mar-2024 04:07:03 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[06-Mar-2024 04:07:03 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[06-Mar-2024 04:07:04 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[06-Mar-2024 04:07:04 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[06-Mar-2024 04:07:05 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[06-Mar-2024 04:07:05 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[06-Mar-2024 04:07:05 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[06-Mar-2024 04:07:06 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[06-Mar-2024 04:07:06 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[06-Mar-2024 04:07:06 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[06-Mar-2024 04:07:07 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[06-Mar-2024 04:07:07 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[06-Mar-2024 04:07:07 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[06-Mar-2024 04:07:08 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[06-Mar-2024 04:07:08 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[06-Mar-2024 04:07:08 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[06-Mar-2024 04:07:09 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[06-Mar-2024 04:13:24 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[06-Mar-2024 04:14:14 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[07-Mar-2024 04:00:58 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[07-Mar-2024 04:00:59 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[07-Mar-2024 04:00:59 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[07-Mar-2024 04:01:01 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[07-Mar-2024 04:01:01 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[07-Mar-2024 04:01:01 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[07-Mar-2024 04:01:02 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[07-Mar-2024 04:01:03 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[07-Mar-2024 04:01:03 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[07-Mar-2024 04:01:03 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[07-Mar-2024 04:01:04 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[07-Mar-2024 04:01:04 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[07-Mar-2024 04:01:04 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[07-Mar-2024 04:01:05 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[07-Mar-2024 04:01:05 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[07-Mar-2024 04:01:05 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[07-Mar-2024 04:01:06 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[07-Mar-2024 04:01:06 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[07-Mar-2024 04:01:06 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[07-Mar-2024 04:01:07 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[07-Mar-2024 04:01:07 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[07-Mar-2024 04:01:07 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[07-Mar-2024 04:07:11 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[07-Mar-2024 04:07:55 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[08-Mar-2024 04:01:54 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[08-Mar-2024 04:01:55 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[08-Mar-2024 04:01:56 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[08-Mar-2024 04:01:57 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[08-Mar-2024 04:01:57 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[08-Mar-2024 04:01:58 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[08-Mar-2024 04:01:59 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[08-Mar-2024 04:01:59 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[08-Mar-2024 04:01:59 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[08-Mar-2024 04:02:00 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[08-Mar-2024 04:02:00 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[08-Mar-2024 04:02:00 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[08-Mar-2024 04:02:01 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[08-Mar-2024 04:02:01 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[08-Mar-2024 04:02:01 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[08-Mar-2024 04:02:02 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[08-Mar-2024 04:02:02 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[08-Mar-2024 04:02:02 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[08-Mar-2024 04:02:03 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[08-Mar-2024 04:02:03 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[08-Mar-2024 04:02:03 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[08-Mar-2024 04:02:04 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[08-Mar-2024 04:07:57 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[08-Mar-2024 04:08:37 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[09-Mar-2024 04:00:25 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[09-Mar-2024 04:00:26 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[09-Mar-2024 04:00:26 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[09-Mar-2024 04:00:27 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[09-Mar-2024 04:00:28 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[09-Mar-2024 04:00:28 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[09-Mar-2024 04:00:29 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[09-Mar-2024 04:00:29 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[09-Mar-2024 04:00:30 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[09-Mar-2024 04:00:30 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[09-Mar-2024 04:00:30 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[09-Mar-2024 04:00:31 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[09-Mar-2024 04:00:31 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[09-Mar-2024 04:00:31 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[09-Mar-2024 04:00:32 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[09-Mar-2024 04:00:32 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[09-Mar-2024 04:00:32 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[09-Mar-2024 04:00:33 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[09-Mar-2024 04:00:33 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[09-Mar-2024 04:00:33 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[09-Mar-2024 04:00:34 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[09-Mar-2024 04:00:34 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[09-Mar-2024 04:06:30 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[09-Mar-2024 04:07:13 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[10-Mar-2024 04:00:26 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[10-Mar-2024 04:00:27 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[10-Mar-2024 04:00:28 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[10-Mar-2024 04:00:29 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[10-Mar-2024 04:00:29 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[10-Mar-2024 04:00:30 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[10-Mar-2024 04:00:31 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[10-Mar-2024 04:00:31 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[10-Mar-2024 04:00:32 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[10-Mar-2024 04:00:32 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[10-Mar-2024 04:00:32 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[10-Mar-2024 04:00:33 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[10-Mar-2024 04:00:33 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[10-Mar-2024 04:00:33 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[10-Mar-2024 04:00:34 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[10-Mar-2024 04:00:34 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[10-Mar-2024 04:00:34 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[10-Mar-2024 04:00:35 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[10-Mar-2024 04:00:35 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[10-Mar-2024 04:00:35 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[10-Mar-2024 04:00:36 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[10-Mar-2024 04:00:36 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[10-Mar-2024 04:06:31 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[10-Mar-2024 04:07:12 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Mar-2024 04:00:15 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Mar-2024 04:00:15 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Mar-2024 04:00:16 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Mar-2024 04:00:17 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Mar-2024 04:00:18 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Mar-2024 04:00:18 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Mar-2024 04:00:19 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Mar-2024 04:00:19 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Mar-2024 04:00:19 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Mar-2024 04:00:20 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Mar-2024 04:00:20 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Mar-2024 04:00:20 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Mar-2024 04:00:21 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Mar-2024 04:00:21 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Mar-2024 04:00:21 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Mar-2024 04:00:22 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Mar-2024 04:00:22 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Mar-2024 04:00:22 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Mar-2024 04:00:23 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Mar-2024 04:00:23 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Mar-2024 04:00:23 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Mar-2024 04:00:24 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Mar-2024 04:06:16 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Mar-2024 04:06:59 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Mar-2024 04:24:15 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Mar-2024 04:24:15 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Mar-2024 04:24:16 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Mar-2024 04:24:17 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Mar-2024 04:24:18 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Mar-2024 04:24:18 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Mar-2024 04:24:19 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Mar-2024 04:24:19 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Mar-2024 04:24:20 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Mar-2024 04:24:20 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Mar-2024 04:24:20 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Mar-2024 04:24:21 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Mar-2024 04:24:21 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Mar-2024 04:24:22 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Mar-2024 04:24:22 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Mar-2024 04:24:22 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Mar-2024 04:24:23 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Mar-2024 04:24:23 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Mar-2024 04:24:23 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Mar-2024 04:24:24 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Mar-2024 04:24:24 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Mar-2024 04:24:24 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Mar-2024 04:30:41 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Mar-2024 04:31:27 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
