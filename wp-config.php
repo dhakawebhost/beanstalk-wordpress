@@ -21,13 +21,13 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'dhakahos_sparmat' );
+define( 'DB_NAME', 'dhakawebhost' );
 
 /** Database username */
-define( 'DB_USER', 'dhakahos_sparmat' );
+define( 'DB_USER', 'admin' );
 
 /** Database password */
-define( 'DB_PASSWORD', '4)Mi[gS-t!pp-798' );
+define( 'DB_PASSWORD', 'Nectar786' );
 
 /** Database hostname */
 define( 'DB_HOST', 'wordpress-rds.c7wk888a0hzi.us-east-1.rds.amazonaws.com' );
